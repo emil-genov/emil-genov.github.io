@@ -2,7 +2,6 @@
 layout: post
 title: Google Reader starred items (json file) to Instapaper (also for Pocket) format
 date: '2013-07-03T13:55:00.001+03:00'
-author: Emo
 tags: 
 modified_time: '2013-07-03T13:55:32.317+03:00'
 ---
