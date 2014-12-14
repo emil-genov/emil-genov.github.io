@@ -1,0 +1,13 @@
+---
+layout: post
+title: Forwarding AFTER filtering in Gmail
+date: '2011-01-10T00:02:00.001+02:00'
+author: Emo
+tags:
+- tips
+modified_time: '2011-01-10T00:08:16.135+02:00'
+blogger_id: tag:blogger.com,1999:blog-7542889160674991776.post-1112487261598926626
+blogger_orig_url: http://www.emil-genov.info/2011/01/forwarding-after-filtering-in-gmail.html
+---
+
+<b>The problem:</b> I want to forward all of my mail to other email account (for example my cell phone Email2SMS address). I want to be able to filter some of the messages using gmail filters, and I do not want to forward those filtered messages.<br /><br />Problem is that gmail, first forwards messages and after that applies filters, just the opposite of what I need.<br /><br /><b>Solution:</b> Well it's a little convoluted but it works. What I needed, was a forwarding filter that will will forward mail coming from any address, except those from a specific list.<br /><br />As it took me some time to figure out the right syntax (try and error), I decided to write it down for someone who will need it too.<br /><br />You can use two filters, first filters unwanted mail, second forwards wanted ones:<br /><br /><blockquote>1) Matches: from:(not_wanted1@mail.com | not_wanted2@mail.com | not_wanted3@mail.com)<br />Do this: Skip Inbox, Mark as read, Delete it<br /><br />2) Matches: <span class="qW">from:(-</span>not_wanted1@mail.com<span class="qW">,<wbr></wbr>-</span>not_wanted1@mail.com<span class="qW">,-</span>not_wanted1@mail.com<span class="qW">)</span><br />Do this: Forward to you-address@sms.mtel.net</blockquote><br />So syntax for filter that matched mail send from any address, except those from a specific list is like this: put a minus in front of address and use comma as list separator. Hope this will help someone, write comment if this got the things done.

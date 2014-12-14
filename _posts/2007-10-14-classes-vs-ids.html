@@ -1,0 +1,13 @@
+---
+layout: post
+title: Classes vs. Ids
+date: '2007-10-14T20:24:00.000+03:00'
+author: Emo
+tags:
+- css
+modified_time: '2007-10-14T20:35:39.842+03:00'
+blogger_id: tag:blogger.com,1999:blog-7542889160674991776.post-3758430851124795827
+blogger_orig_url: http://www.emil-genov.info/2007/10/classes-vs-ids.html
+---
+
+Today, while trying to fix broken rendering of <a href="http://aero-bg.com/">aero-bg.com</a> on Firefox, I delved deeper in CSS of site. Interesting though the css,  almost randomly used in some cases ids and in other classes. I almost forgot, what the difference between those selectors are, so I refreshed myself, reading this <a href="http://css-discuss.incutio.com/?page=ClassesVsIds">incredible peace of info</a>. To make things short, this is what are important differences:<br /><br /><span style="font-weight: bold;">1. Repeated use within a document</span><ul><li>Classes can be used as many times as needed within a document.</li><li>IDs can only be applied once within a document.<br /></li></ul>So, if you need to use the same specific selector more than once, classes are a better choice.<br /><br /><span style="font-weight: bold;">2. Combining class selectors</span><br /><br />You can use multiple classes to style an HTML element but you can only use one ID when styling an HTML element. This means that class selectors have a wider range of applications.<br /><br /><span style="font-weight: bold;">3. IDs have higher specificity than classes</span><br /><br />There may be times when a declaration conflicts with another declaration. These conflicts are resolved using the Cascade rules. In simple terms, if a class selector and ID selector were to be in conflict, the ID selector would be chosen.<br /><br />Also <a href="http://www.alistapart.com/articles/scripttriggers/">following article has it's controversal way to detach scripts for handling DOM events, from presentation.</a>

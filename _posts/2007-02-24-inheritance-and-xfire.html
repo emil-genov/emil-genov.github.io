@@ -1,0 +1,12 @@
+---
+layout: post
+title: Inheritance and XFire
+date: '2007-02-24T16:48:00.001+02:00'
+author: Emo
+tags: 
+modified_time: '2007-02-24T16:48:17.032+02:00'
+blogger_id: tag:blogger.com,1999:blog-7542889160674991776.post-4673163137567042308
+blogger_orig_url: http://www.emil-genov.info/2007/02/inheritance-and-xfire.html
+---
+
+<p></p> <p>Sometimes we need to use polymorphism and it is already supported by WSDL, so here is a little tricky explanation how to do this using XFire. <p>For example we have a basic type <em>Party</em> and two classes that extend it: <em>Individual</em> and <em>Organisation</em>. We define method in interface, that accepts Party, but we need to be possible to use Individual and Organisation objects with this method too. This is solved by adding following annotations to <em>implementation of service</em>: <blockquote><pre>@WebService(serviceName = "PartyProcessImpl", endpointInterface = "com.industria.PartyProcess")<br />@ServiceProperties(properties={<br />  @ServiceProperty(key=AegisBindingProvider.WRITE_XSI_TYPE_KEY, value="true"),<br />  @ServiceProperty(key=AegisBindingProvider.OVERRIDE_TYPES_KEY, list={"com.party.Individual","com.party.Organisation"})<br />  })<br />public class PartyProcessImpl implements PartyProcess {</pre></blockquote><br /><p>basically in second @ServiceProperty annotations, we give a list of classes, that need to be check if override some of basic types that are used into WS interface.</p>

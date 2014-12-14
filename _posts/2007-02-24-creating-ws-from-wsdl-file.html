@@ -1,0 +1,12 @@
+---
+layout: post
+title: Creating WS from an WSDL file
+date: '2007-02-24T16:46:00.001+02:00'
+author: Emo
+tags: 
+modified_time: '2007-02-24T16:46:34.466+02:00'
+blogger_id: tag:blogger.com,1999:blog-7542889160674991776.post-8530311145139829426
+blogger_orig_url: http://www.emil-genov.info/2007/02/creating-ws-from-wsdl-file.html
+---
+
+<p>If you must use preexisting WSDL file, You can use tool in XFire to generate you an Java implementation of it. It's like issuing this ant script: <blockquote><pre>&lt;target name="wsdl" depends="createDirs"&gt;<br />  &lt;path id="xfire-classpath"&gt;<br />   &lt;fileset dir="${libDir}/xfire"&gt;<br />    &lt;include name="*.jar" /&gt;<br />   &lt;/fileset&gt;<br />  &lt;/path&gt;<br /><br />  &lt;taskdef name="wsgen" classname="org.codehaus.xfire.gen.WsGenTask"<br />        classpathref="xfire-classpath"/&gt;<br /><br /><br />  &lt;wsgen outputDirectory="${basedir}/target/generated-source"<br />     wsdl="${basedir}/src/com/industria/tea/soap/TaskEscalation.wsdl" package="com.industria.tea.soap" overwrite="true"/&gt;<br /> &lt;/target&gt;</pre></blockquote><br /><p>where $libDir/xfire contains all jars taken from XFire distribution to avoid version mismatch<br /><p>where:<br /><ul><br /><li><b>wsdl</b> - location of wsdl file ( can be any valid url ) <br /><li><b>outputDirectory</b> - output directory for generated classes <br /><li><b>package</b> - package where client code will be placed <br /><li><b>overwrite</b> - allows to overwrite previously generated classes ( without this option, generator will refuse to generate classes if such already exists ) </li></ul>
