@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://emil-genov.github.io/sitemap.xml 
