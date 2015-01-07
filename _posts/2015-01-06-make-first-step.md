@@ -6,4 +6,4 @@ tags: inspiration
 ---
 So yeah, the more important stuff for every project you undertake (to prevent paralysis by analysis)  
 
-![First step](../images/first_step.jpg)
+![First step](/images/first_step.jpg)
