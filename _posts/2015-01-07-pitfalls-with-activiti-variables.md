@@ -8,11 +8,11 @@ Today I was doing unit tests for one Activiti flow. In the end of the test I wan
 
 To set the variable, you can do it in following ways:
 * Do it in the script: 
-~~~
+```
 ...
 execution.setVariable("finalStatus", "OK")
 ...
-~~~
+```
 * User service task, which puts service result in execution variable
 * In java service delegate again using: 
 ~~~
