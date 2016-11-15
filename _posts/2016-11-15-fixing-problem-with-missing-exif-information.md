@@ -12,8 +12,8 @@ Enter excelent tool: [exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/). 
 
 After that run following commands into the folder where you have you photos with wrong date:
 ```bash
-exiftool -P "-FileName>AllDates" -overwrite_original -if '(not $datetimeoriginal or ($datetimeoriginal eq "0000:00:00 00:00:00"))' *
-exiftool -P "-FileModifyDate>AllDates" -overwrite_original -if '(not $datetimeoriginal or ($datetimeoriginal eq "0000:00:00 00:00:00"))' *
+exiftool -P "-FileName>AllDates" -overwrite_original -if '(not $datetimeoriginal or ($datetimeoriginal eq "0000:00:00 00:00:00"))' *  
+exiftool -P "-FileModifyDate>AllDates" -overwrite_original -if '(not $datetimeoriginal or ($datetimeoriginal eq "0000:00:00 00:00:00"))' *  
 ```
 
 The first command will parse filenames to get date/time stamp and put it into EXIF header, for all files that have missing dateTimeOriginal in their EXIF.
