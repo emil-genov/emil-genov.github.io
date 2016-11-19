@@ -22,9 +22,8 @@ The second one will do the same for the ones that couldn't be parsed but by usin
 To see what flags are doing, you can go through excelent [FAQ of exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/faq.html)
 
 Then you should close Shotwell, drop it's database:
-```
-rm -fr ~/.local/share/shotwell/
-rm -fr ~/.cache/shotwell/
-```
+
+    rm -fr ~/.local/share/shotwell/
+    rm -fr ~/.cache/shotwell/
 
 and then restart it and reimport photos, now they will be with their correct dates.
