@@ -3,6 +3,8 @@ layout: post
 title: My GTD system using Google tools 
 date: '2017-12-09T19:00:00.000+02:00'
 tags: gtd, google-keep, google-drive, google-calendar
+image:
+  feature: gtd-organize.jpg
 ---
 
 As a big fan of [David Allen's Getting Things Done book](http://gettingthingsdone.com/) I try to apply it's principles in organizing my personal life and tasks. I also really like using Google functionality, it's available everywhere, has great support in android and is backed up.
