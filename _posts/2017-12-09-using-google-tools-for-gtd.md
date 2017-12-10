@@ -10,7 +10,7 @@ As a big fan of [David Allen's Getting Things Done book](http://gettingthingsdon
 So I devised a system using two of Google tools: Keep, Calendar and Drive. It is based on very simple set of rules:
 
 1. Every time a thought comes to my mind, of like "I should ..." or "I must ..." or "It will be good to ..." I create a new note in keep and mark it as #inbox
-1. Once weekly I have a review of all notes tagged with #inbox and perform following for each note:
+1. Once weekly I have a review of all notes tagged with **#inbox** and perform following for each note:
 	1. If note is rubbish / don't want to do it -> I just delete it
 	1. If I think is a good idea, but I do not want to do it right now I move it out of **#inbox** and into **#someday**
 	1. If it gonna take less than 2 minutes I just do it and I archieve it
