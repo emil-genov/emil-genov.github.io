@@ -30,6 +30,7 @@ title: EMIL VALENTINOV GENOV
 * **Development skills**  
   Java server­side programming (Spring, Hibernate, maven, async programming)  
   Micro­services architecture (Spring Boot, Spring MVC and JAX­RS, Swagger)  
+  Full Spring stack  
   Full EJB3 stack (EJB3, JPA, JMS), Web Services and REST services  
   NoSQL (mongoDB), SQL Servers (MySQL, Oracle)  
   Amazon cloud stack (EC3, S3, RDS, SQS)  
@@ -38,7 +39,7 @@ title: EMIL VALENTINOV GENOV
 
 * **Process skills**  
   Agile development, Scrum methodology, Specifications
-   
+
 * **People skills:**  
   Team management, hiring process, motivation
 
