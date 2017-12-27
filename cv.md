@@ -1,5 +1,6 @@
 ---
 layout: cv
+title: CV - Emil Genov
 ---
 # EMIL VALENTINOV GENOV
 
