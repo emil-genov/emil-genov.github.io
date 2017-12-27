@@ -2,6 +2,7 @@
 layout: cv
 title: EMIL VALENTINOV GENOV
 ---
+# EMIL VALENTINOV GENOV
 
 #### PERSONAL INFORMATION
 **Place of Birth:** Sofia, Bulgaria | **Contact:** [emil-genov.info](http://emil-genov.info)  
