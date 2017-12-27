@@ -2,6 +2,7 @@
 layout: cv
 title: EMIL VALENTINOV GENOV
 ---
+
 #### PERSONAL INFORMATION
 **Place of Birth:** Sofia, Bulgaria | **Contact:** [emil-genov.info](http://emil-genov.info)  
 **Living in:** Barcelona, Spain | **Email:** emo.genov@gmail.com
@@ -26,17 +27,20 @@ title: EMIL VALENTINOV GENOV
   Developed “Bulgarian Documents of Identity” and “Document Management System” projects.
 
 #### SUMMARY OF QUALIFICATIONS
-**Development skills:**
-* Java server­side programming (Spring, Hibernate, maven, async programming)
-* Micro­services architecture (Spring Boot, Spring MVC and JAX­RS, Swagger)
-* Full EJB3 stack (EJB3, JPA, JMS), Web Services and REST services
-* NoSQL (mongoDB), SQL Servers (MySQL, Oracle)
-* Amazon cloud stack (EC3, S3, RDS, SQS)
-* Continuos Integration (GitHub, Jenkins, Sonar Cube, Rollbar)
-* Erlang, Ruby, node.js, Groovy and Grails  
+* **Development skills**  
+  Java server­side programming (Spring, Hibernate, maven, async programming)  
+  Micro­services architecture (Spring Boot, Spring MVC and JAX­RS, Swagger)  
+  Full EJB3 stack (EJB3, JPA, JMS), Web Services and REST services  
+  NoSQL (mongoDB), SQL Servers (MySQL, Oracle)  
+  Amazon cloud stack (EC3, S3, RDS, SQS)  
+  Continuos Integration (GitHub, Jenkins, Sonar Cube, Rollbar)  
+  Erlang, Ruby, node.js, Groovy and Grails  
 
-**Process skills:** Agile development, Scrum methodology, Specifications  
-**People skills:** Team management, hiring process, motivation
+* **Process skills**  
+  Agile development, Scrum methodology, Specifications
+   
+* **People skills:**  
+  Team management, hiring process, motivation
 
 #### EDUCATION
 * **Mathematical School of Sofia “Paisij Hilendarski”** *(1986 – 1992)*
