@@ -5,17 +5,24 @@ title: CV - Emil Genov
 # EMIL VALENTINOV GENOV
 
 #### PERSONAL INFORMATION
-**Place of Birth:** Sofia, Bulgaria | **Contact:** [emil-genov.info](http://emil-genov.info)  
-**Living in:** Barcelona, Spain | **Email:** emo.genov@gmail.com
+**Place of Birth:** Sofia, Bulgaria | **About:** [emil-genov.info](http://emil-genov.info)  
+**Living in:** Barcelona, Spain | **Email:** <emo.genov@gmail.com>
 
 #### PROFESSIONAL EXPERIENCE
+* **Senior Software Developer @ Digital Origin** *(Jan 2018 - present)*
+
+* **Mobile Team Lead @ Ocado** *(Aug 2017 - Dec 2017)*  
+  Ocado is world biggest online only supermarket. Entire process from user ordering, product fulfilment and delivery to the customer is completely automatic. After it's success in UK, Ocado begun to offer it's technology and infrastructure to other large traders with Ocado Service Platform (OSP).  
+  As a lead I was in charge of multi-disciplinary team consisting of backend, iOS, Android, UX and QAs. Tasked with day-to-day project management, solving conflicts with PO and stakeholders, facilitating communication with other teams and starting discussions in the team by asking the right questions. Doing continuous one-on-ones to find out peoples' goals and help them grow. In the end by keeping everyone motivated and productive, I was able to create a team that delivers consistently.
+  Unfortunately I found out that management only role was not fulfilling me and was not enough to keep me motivated, so I decided to go back to developing.
+
 * **Tech Lead, Backend and Risk @ Digital Origin** *(Jun 2012 – Aug 2017)*  
   As 5th person to join DigitalOrigin start­up, I helped building this now >80 person successful fintech leader, that tries to change the market for fully electronic, paperless on­line credit and e­-commerce.  
   Starting as a senior Java developer, was immediately noted for my ability to bring order to the chaos, make systems more stable and efficient. Later on I was trusted on hiring and building­-up my team of 6 developers and influencing company's decisions on software process.   
   Responsible for in­-house developed identity/risk assessment/fraud detection functionality on which all company products are based.
 
 * **Senior Java Developer @ Nuroa Internet Services** *(Jan 2011 – Jun 2012)*  
-  Developing backend part of a vertical search engine centered around property buy/sell, renting and vacation homes. Responsible for crawling, parsing, transforming and summarizing all data the site operates on.  
+  Developed backend part of a vertical search engine centered around property buy/sell, renting and vacation homes. Responsible for crawling, parsing, transforming and summarizing all data the site operates on.  
 
 * **Senior Java Developer @ mercatis GmbH** *(Apr 2009 – Jan 2011)*  
   Worked on an automated logistics and ERP system for one of the largest European retail store chains. Designed and implemented a framework to control legacy MFC systems (industrial warehouse robots). My side project was process reporting and control system.
