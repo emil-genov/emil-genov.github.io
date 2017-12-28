@@ -21,7 +21,7 @@ title: CV - Emil Genov
 * **Tech Lead, Backend and Risk @ Digital Origin** *(Jun 2012 – Aug 2017)*  
   A 5th person to join DigitalOrigin start­up, helped building this now >80 person successful fintech leader, that tries to change the market for fully electronic, paperless on­line credit and e­-commerce.  
 
-  Starting as a senior Java developer, was immediately noted for my ability to bring order to the chaos, make systems more stable and efficient. Later on was trusted on hiring and building­-up my team of 6 developers and influencing company's decisions on software process.   
+  Starting as a senior Java developer, was immediately noted for ability to bring order to the chaos, make systems more stable and efficient. Later on was trusted on hiring and building­-up a team of 6 developers and influencing company's decisions on software process.   
 
   Responsible for in­-house developed identity/risk assessment/fraud detection functionality on which all company products are based.
 
