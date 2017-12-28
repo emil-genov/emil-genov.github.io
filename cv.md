@@ -13,7 +13,7 @@ title: CV - Emil Genov
 
 * **Mobile Team Lead @ Ocado** *(Aug 2017 - Dec 2017)*  
   Ocado is world biggest online only supermarket. Entire process from user ordering, product fulfilment and delivery to the customer is completely automatic. After it's success in UK, Ocado begun to offer it's technology and infrastructure to other large traders with Ocado Service Platform (OSP).  
-  As a lead I was in charge of multi-disciplinary team consisting of backend, iOS, Android, UX and QAs. Tasked with day-to-day project management, solving conflicts with PO and stakeholders, facilitating communication with other teams and starting discussions in the team by asking the right questions. Doing continuous one-on-ones to find out peoples' goals and help them grow. In the end by keeping everyone motivated and productive, I was able to create a team that delivers consistently.
+  As a lead I was in charge of multi-disciplinary team consisting of backend, iOS, Android, UX and QAs. Tasked with day-to-day project management, solving conflicts with PO and stakeholders, facilitating communication with other teams and starting discussions in the team by asking the right questions. Doing continuous one-on-ones to find out peoples' goals and help them grow. In the end by keeping everyone motivated and productive, I was able to create a team that delivers consistently.  
   Unfortunately I found out that management only role was not fulfilling me and was not enough to keep me motivated, so I decided to go back to developing.
 
 * **Tech Lead, Backend and Risk @ Digital Origin** *(Jun 2012 – Aug 2017)*  
