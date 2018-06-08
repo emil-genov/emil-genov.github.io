@@ -1,6 +1,6 @@
 # Site navigation links
 
-- title: CV
+- title: <i class="far fa-file-alt"></i> CV
   url: /cv
 
 - title: Projects
