@@ -10,6 +10,7 @@ title: CV - Emil Genov
 
 #### PROFESSIONAL EXPERIENCE
 * **Senior Software Developer @ Digital Origin** *(Jan 2018 - present)*
+  Working in a team developing on-line, paperless and completely autonomous consumer financing. As part of the back-end team, I am redesigning the existing monolithic application into a set of micro-services to make it more flexible and easier to maintain. Continuously refactoring in order to have code that is as robust and effective as possible, without compromising business priorities.
 
 * **Team Lead, Mobile team @ Ocado** *(Aug 2017 - Dec 2017)*  
   In charge of multi-disciplinary team consisting of java Backend, iOS, Android, UX and QAs in Ocado, the world largest online supermarket. Tasked with day-to-day project management, solving conflicts with PO and stakeholders, facilitating communication with other teams and starting discussions in the team by asking the right questions. Doing continuous one-on-ones to find out peoples' goals and help them grow. In the end by keeping everyone motivated and productive, was able to create a team that delivers consistently.  
@@ -58,3 +59,6 @@ title: CV - Emil Genov
 
 #### LANGUAGES
 Fluent spoken and written English, working level Spanish
+
+
+[ODT](/cv/CV.odt)  [PDF](/cv/CV.pdf)
