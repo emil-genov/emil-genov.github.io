@@ -61,4 +61,5 @@ title: CV - Emil Genov
 Fluent spoken and written English, working level Spanish
 
 
-[ODT](/cv/CV.odt)  [PDF](/cv/CV.pdf)
+##### Download
+[PDF](/cv/CV.pdf)
