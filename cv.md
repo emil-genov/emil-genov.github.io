@@ -5,7 +5,7 @@ title: CV - Emil Genov
 # EMIL VALENTINOV GENOV
 
 #### PERSONAL INFORMATION
-**Place of Birth:** Sofia, Bulgaria | **About me:** [emil-genov.info](http://emil-genov.info)  
+**Place of Birth:** Sofia, Bulgaria | **About me:** [emil-genov.com](http://emil-genov.com)  
 **Living in:** Barcelona, Spain | **Email:** <emo.genov@gmail.com>
 
 #### PROFESSIONAL EXPERIENCE
