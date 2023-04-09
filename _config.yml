@@ -2,7 +2,7 @@
 
 title:            Learn, Practice & Share
 locale:           en_US
-url:              http://emil-genov.github.io
+url:              https://emil-genov.github.io
 
 
 # Jekyll configuration
@@ -27,7 +27,7 @@ kramdown:
 # Site owner
 owner:
   name: Emil Genov
-  avatar: emil_tb.png
+  avatar: emil-thumbnail.png
   bio: "Software developer living in Barcelona"
   email:
   disqus-shortname:
